@@ -7,3 +7,5 @@ Portfolio Website : https://ronaldprithiv.github.io/
 Email : ronaldprithiv98@gmail.com
 
 LinkedIn : https://www.linkedin.com/in/ronald-prithiv-aba293170/
+
+OpenSea Collection : https://opensea.io/collection/x3n-101
